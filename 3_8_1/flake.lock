@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-winim-master": "src-winim-master"
+        "src-winim-3_8_1": "src-winim-3_8_1"
       }
     },
-    "src-winim-master": {
+    "src-winim-3_8_1": {
       "flake": false,
       "locked": {
         "lastModified": 1654596048,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "khchen",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/3.8.1",
         "repo": "winim",
         "type": "github"
       }
